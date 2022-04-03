@@ -1,11 +1,11 @@
 # my-cals
-# Languages for Webdevelopment
+# tools for Webdevelopment
     - Java
     - Kotlin
     - Android Studio
     - C#
     - Flutter
-    -
+    - react native
 
 Goals:
     Functionality and Aesthetics
@@ -25,3 +25,5 @@ API Key EVdiamGbLkdmrzaHmmAUr9v4eZ1jpnKMVq3SH4Da
 
 Design in Figma
 decide what languages you want
+
+https://www.figma.com/team_invite/redeem/Ny9qitmT6xqFlGtY7o6nR9
