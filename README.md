@@ -3,9 +3,6 @@
     - Java
     - Kotlin
     - Android Studio
-    - C#
-    - Flutter
-    - react native
 
 Goals:
     Functionality and Aesthetics
